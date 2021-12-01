@@ -41,5 +41,4 @@ def part2b():
 
 if __name__ == "__main__":
     part1()
-    part1b()
     part2()
