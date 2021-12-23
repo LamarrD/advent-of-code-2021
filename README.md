@@ -17,3 +17,5 @@ Well i'm glad ya asked. I'd like to accomplish a few things:
 - @ballpointcarrot has given me the courage to maybe live stream some of these. TBD
 
 Let's get it.
+
+Alright we got to Day 14 - Let's get further next year :)
